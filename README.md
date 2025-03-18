@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm António Madeira
 
-<!--
-**antoniomadeiraa/antoniomadeiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Analyst | Python | SQL | Power BI  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a data enthusiast who loves transforming raw data into meaningful insights using Python, SQL, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **Databases:** SQL (PostgreSQL)
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+</p>
+
+---
+
+## 🌎 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/antóniomadeira/)  
+
+---
+
+⭐️ **Feel free to explore my repositories and connect with me!**
