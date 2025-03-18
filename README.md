@@ -11,7 +11,6 @@ Welcome to my GitHub! I'm a data enthusiast who loves transforming raw data into
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - **Databases:** SQL (PostgreSQL)
 - **Data Visualization:** Power BI, Matplotlib, Seaborn
-- 
 ---
 
 ## 📈 GitHub Stats
