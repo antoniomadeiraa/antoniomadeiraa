@@ -16,8 +16,8 @@ Welcome to my GitHub! I'm a data enthusiast who loves transforming raw data into
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Antonio&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio&theme=radical" />
 </p>
 
 ---
